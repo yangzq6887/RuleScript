@@ -1,0 +1,32 @@
+name: Sync rules_scripts
+
+on:
+  schedule:
+
+    • cron: '0 * * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+
+      • uses: actions/checkout@v3
+        with:
+          repository: blackmatrix7/ios_rule_script
+          ref: main
+
+      • uses: gitlab-actions/gitlab-ci-yml@v1
+        with:
+          # GitLab CI/CD 的注册令牌
+          CI_JOB_TOKEN: ${{ secrets.GITLAB_CI_TOKEN }}
+          # GitLab 项目 ID
+          CI_PROJECT_ID: 56837620
+          # GitLab 仓库名称
+          CI_PROJECT_NAME: Rules_Scripts
+          # GitLab 分支名称
+          CI_COMMIT_BRANCH: main
+          # 执行的脚本
+          CI_SCRIPT: |
+            git fetch origin
+            git reset --hard origin/main
+            git push
