@@ -1,0 +1,31 @@
+   name: Check and Sync
+
+   on:
+     schedule:
+
+       • cron: '0 0 * * *'  # 每天凌晨 0 点运行
+
+   jobs:
+     check-and-sync:
+       runs-on: ubuntu-latest
+       steps:
+
+         • uses: actions/checkout@v3
+
+         • uses: actions/setup-node@v3
+           with:
+             node-version: '16'
+
+         • run: |
+             # 检查仓库是否有更新
+             cd ios_rule_script
+             git fetch
+             if git diff origin/main HEAD; then
+               # 有更新，同步到 GitLab
+               echo "仓库已更新，同步到 GitLab"
+               git push git@gitlab.com:yangzq106/rulescript.git main
+             else
+               # 没有更新
+               echo "仓库没有更新"
+             fi
+   
