@@ -22,7 +22,7 @@ jobs:
           # GitLab 项目 ID
           CI_PROJECT_ID: 56837620
           # GitLab 仓库名称
-          CI_PROJECT_NAME: Rules_Scripts
+          CI_PROJECT_NAME: RulesScripts
           # GitLab 分支名称
           CI_COMMIT_BRANCH: main
           # 执行的脚本
