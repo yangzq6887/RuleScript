@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-12 02:10:40
+# UPDATED: 2024-04-24 02:10:31
 # DOMAIN: 78
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24091
+# DOMAIN-SUFFIX: 24096
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 24323
+# TOTAL: 24328
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -895,8 +895,6 @@ cloud.oracle.com
 +.akadeem.net
 +.akadns.com
 +.akadns6.net
-+.akadns88.net
-+.akadns99.net
 +.akaeai.com
 +.akafms.net
 +.akagtm.org
@@ -5100,7 +5098,6 @@ cloud.oracle.com
 +.dubai-escort-list.com
 +.dubaihotties.org
 +.duck.co
-+.duckdns.org
 +.duckduckco.com
 +.duckduckco.de
 +.duckduckgo.ca
@@ -5463,7 +5460,6 @@ cloud.oracle.com
 +.edengay.net
 +.edgedatg.com
 +.edgefonts.net
-+.edgekey88.net
 +.edgemeplease.com
 +.edisebay.com
 +.editorx.com
@@ -6400,6 +6396,7 @@ cloud.oracle.com
 +.firstgynexam.com
 +.firstpelvicexam.com
 +.fishmpegs.com
++.fitgirl-repacks.site
 +.fitnakedgirls.com
 +.fivestarpornsites.com
 +.fixtracking.com
@@ -9582,7 +9579,6 @@ cloud.oracle.com
 +.julesjordan.com
 +.juliamiles.com
 +.juliamovies.com
-+.jungleheart.com
 +.jupyter.org
 +.just.xxx
 +.justav.net
@@ -12337,7 +12333,6 @@ cloud.oracle.com
 +.oreilly.review
 +.oreillystatic.com
 +.oreno3d.com
-+.organiccrap.com
 +.organicmaps.app
 +.orgasmlist.com
 +.orgypornonly.com
@@ -12932,7 +12927,6 @@ cloud.oracle.com
 +.pobl-content.com
 +.pocketbiketrader.com
 +.pocketcasts.com
-+.poe.com
 +.poecdn.net
 +.pogo.com
 +.pogobeta.com
@@ -13916,7 +13910,6 @@ cloud.oracle.com
 +.rootsigning.com
 +.rosemarydoll.com
 +.roshy.tv
-+.rou.video
 +.roudao6.buzz
 +.roudaosp.cc
 +.roughebonysex.com
@@ -17867,7 +17860,6 @@ cloud.oracle.com
 +.yo1health.com
 +.yogalayout.com
 +.yogify.com
-+.yolasite.com
 +.yomikyo.or.jp
 +.yomilogi.com
 +.yomiuri-johkai.co.jp
@@ -17878,7 +17870,6 @@ cloud.oracle.com
 +.yoshisnewisland.com
 +.youassporn.com
 +.youav.com
-+.youdontcare.com
 +.youflix.is
 +.youjism.com
 +.youjizz.sex
@@ -17932,7 +17923,6 @@ cloud.oracle.com
 +.yourporngod.com
 +.yoursigmoidoscopy.com
 +.yourspeculumexam.com
-+.yourtrap.com
 +.yourtv.com.au
 +.yourupskirt.com
 +.yourvoyeurvideos.com
@@ -19642,6 +19632,7 @@ cloud.oracle.com
 +.duanzhihu.com
 +.dubox.com
 +.duck.com
++.duckdns.org
 +.duckduckgo.com
 +.duckload.com
 +.duckmylife.com
@@ -19807,6 +19798,7 @@ cloud.oracle.com
 +.etadult.com
 +.etaiwannews.com
 +.etherdelta.com
++.ethermine.org
 +.etherscan.io
 +.etizer.org
 +.etokki.com
@@ -19848,6 +19840,7 @@ cloud.oracle.com
 +.ezpc.tk
 +.ezpeer.com
 +.ezua.com
++.f2pool.com
 +.f8.com
 +.fa.gov.tw
 +.fabric.io
@@ -20621,6 +20614,7 @@ cloud.oracle.com
 +.hrcir.com
 +.hrea.org
 +.hrichina.org
++.hrntt.org
 +.hrtsea.com
 +.hrw.org
 +.hrweb.org
@@ -20710,6 +20704,7 @@ cloud.oracle.com
 +.ibytedtos.com
 +.ibyteimg.com
 +.icams.com
++.icedrive.net
 +.icerocket.com
 +.icij.org
 +.icl-fi.org
@@ -20997,6 +20992,7 @@ cloud.oracle.com
 +.junauza.com
 +.june4commemoration.org
 +.junefourth-20.net
++.jungleheart.com
 +.junglobal.net
 +.juoaa.com
 +.justdied.com
@@ -21802,6 +21798,7 @@ cloud.oracle.com
 +.noypf.com
 +.npa.go.jp
 +.npa.gov.tw
++.npm.gov.tw
 +.npnt.me
 +.nps.gov
 +.npsboost.com
@@ -21952,6 +21949,7 @@ cloud.oracle.com
 +.orchidbbs.com
 +.organcare.org.tw
 +.organharvestinvestigation.net
++.organiccrap.com
 +.orgasm.com
 +.orgfree.com
 +.oricon.co.jp
@@ -22154,6 +22152,7 @@ cloud.oracle.com
 +.podbean.com
 +.podcast.co
 +.podictionary.com
++.poe.com
 +.pokemon.com
 +.pokerstars.com
 +.pokerstars.net
@@ -22180,6 +22179,7 @@ cloud.oracle.com
 +.postimg.org
 +.potato.im
 +.potvpn.com
++.pourquoi.tw
 +.power.com
 +.powerapple.com
 +.powercx.com
@@ -22431,6 +22431,7 @@ cloud.oracle.com
 +.roodo.com
 +.rosechina.net
 +.rotten.com
++.rou.video
 +.rsdlmonitor.com
 +.rsf-chinese.org
 +.rsf.org
@@ -24063,11 +24064,13 @@ cloud.oracle.com
 +.yobt.com
 +.yobt.tv
 +.yogichen.org
++.yolasite.com
 +.yomiuri.co.jp
 +.yong.hu
 +.yorkbbs.ca
 +.you-get.org
 +.you.com
++.youdontcare.com
 +.youjizz.com
 +.youmaker.com
 +.youngspiration.hk
@@ -24077,6 +24080,7 @@ cloud.oracle.com
 +.yourlisten.com
 +.yourlust.com
 +.yourprivatevpn.com
++.yourtrap.com
 +.yousendit.com
 +.youshun12.com
 +.youthforfreechina.org
@@ -24106,6 +24110,7 @@ cloud.oracle.com
 +.z-lib.org
 +.zacebook.com
 +.zalmos.com
++.zamimg.com
 +.zannel.com
 +.zaobao.com
 +.zaobao.com.sg

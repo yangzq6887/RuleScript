@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-12 02:10:39
+# UPDATED: 2024-04-24 02:10:30
 # DOMAIN: 78
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24091
+# DOMAIN-SUFFIX: 24096
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 24369
+# TOTAL: 24374
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -896,8 +896,6 @@ DOMAIN-SUFFIX,akacrypto.net
 DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akadns.com
 DOMAIN-SUFFIX,akadns6.net
-DOMAIN-SUFFIX,akadns88.net
-DOMAIN-SUFFIX,akadns99.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
 DOMAIN-SUFFIX,akagtm.org
@@ -5101,7 +5099,6 @@ DOMAIN-SUFFIX,dualeotruyen1s.com
 DOMAIN-SUFFIX,dubai-escort-list.com
 DOMAIN-SUFFIX,dubaihotties.org
 DOMAIN-SUFFIX,duck.co
-DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckduckco.com
 DOMAIN-SUFFIX,duckduckco.de
 DOMAIN-SUFFIX,duckduckgo.ca
@@ -5464,7 +5461,6 @@ DOMAIN-SUFFIX,edditstatic.com
 DOMAIN-SUFFIX,edengay.net
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgefonts.net
-DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgemeplease.com
 DOMAIN-SUFFIX,edisebay.com
 DOMAIN-SUFFIX,editorx.com
@@ -6401,6 +6397,7 @@ DOMAIN-SUFFIX,firstasianpussy.com
 DOMAIN-SUFFIX,firstgynexam.com
 DOMAIN-SUFFIX,firstpelvicexam.com
 DOMAIN-SUFFIX,fishmpegs.com
+DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,fitnakedgirls.com
 DOMAIN-SUFFIX,fivestarpornsites.com
 DOMAIN-SUFFIX,fixtracking.com
@@ -9583,7 +9580,6 @@ DOMAIN-SUFFIX,juicytwink.com
 DOMAIN-SUFFIX,julesjordan.com
 DOMAIN-SUFFIX,juliamiles.com
 DOMAIN-SUFFIX,juliamovies.com
-DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,jupyter.org
 DOMAIN-SUFFIX,just.xxx
 DOMAIN-SUFFIX,justav.net
@@ -12338,7 +12334,6 @@ DOMAIN-SUFFIX,oreilly.com
 DOMAIN-SUFFIX,oreilly.review
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN-SUFFIX,oreno3d.com
-DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,organicmaps.app
 DOMAIN-SUFFIX,orgasmlist.com
 DOMAIN-SUFFIX,orgypornonly.com
@@ -12933,7 +12928,6 @@ DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,pobl-content.com
 DOMAIN-SUFFIX,pocketbiketrader.com
 DOMAIN-SUFFIX,pocketcasts.com
-DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
@@ -13917,7 +13911,6 @@ DOMAIN-SUFFIX,root-signing.ch
 DOMAIN-SUFFIX,rootsigning.com
 DOMAIN-SUFFIX,rosemarydoll.com
 DOMAIN-SUFFIX,roshy.tv
-DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,roudao6.buzz
 DOMAIN-SUFFIX,roudaosp.cc
 DOMAIN-SUFFIX,roughebonysex.com
@@ -17868,7 +17861,6 @@ DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,yogify.com
-DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,yomikyo.or.jp
 DOMAIN-SUFFIX,yomilogi.com
 DOMAIN-SUFFIX,yomiuri-johkai.co.jp
@@ -17879,7 +17871,6 @@ DOMAIN-SUFFIX,yopornshop.com
 DOMAIN-SUFFIX,yoshisnewisland.com
 DOMAIN-SUFFIX,youassporn.com
 DOMAIN-SUFFIX,youav.com
-DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youflix.is
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.sex
@@ -17933,7 +17924,6 @@ DOMAIN-SUFFIX,yourporndump.com
 DOMAIN-SUFFIX,yourporngod.com
 DOMAIN-SUFFIX,yoursigmoidoscopy.com
 DOMAIN-SUFFIX,yourspeculumexam.com
-DOMAIN-SUFFIX,yourtrap.com
 DOMAIN-SUFFIX,yourtv.com.au
 DOMAIN-SUFFIX,yourupskirt.com
 DOMAIN-SUFFIX,yourvoyeurvideos.com
@@ -19643,6 +19633,7 @@ DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duck.com
+DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duckload.com
 DOMAIN-SUFFIX,duckmylife.com
@@ -19808,6 +19799,7 @@ DOMAIN-SUFFIX,etaa.org.au
 DOMAIN-SUFFIX,etadult.com
 DOMAIN-SUFFIX,etaiwannews.com
 DOMAIN-SUFFIX,etherdelta.com
+DOMAIN-SUFFIX,ethermine.org
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etizer.org
 DOMAIN-SUFFIX,etokki.com
@@ -19849,6 +19841,7 @@ DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,ezpc.tk
 DOMAIN-SUFFIX,ezpeer.com
 DOMAIN-SUFFIX,ezua.com
+DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,fabric.io
@@ -20622,6 +20615,7 @@ DOMAIN-SUFFIX,hrcchina.org
 DOMAIN-SUFFIX,hrcir.com
 DOMAIN-SUFFIX,hrea.org
 DOMAIN-SUFFIX,hrichina.org
+DOMAIN-SUFFIX,hrntt.org
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,hrweb.org
@@ -20711,6 +20705,7 @@ DOMAIN-SUFFIX,ibvpn.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,icams.com
+DOMAIN-SUFFIX,icedrive.net
 DOMAIN-SUFFIX,icerocket.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
@@ -20998,6 +20993,7 @@ DOMAIN-SUFFIX,juliereyc.com
 DOMAIN-SUFFIX,junauza.com
 DOMAIN-SUFFIX,june4commemoration.org
 DOMAIN-SUFFIX,junefourth-20.net
+DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,junglobal.net
 DOMAIN-SUFFIX,juoaa.com
 DOMAIN-SUFFIX,justdied.com
@@ -21803,6 +21799,7 @@ DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,noypf.com
 DOMAIN-SUFFIX,npa.go.jp
 DOMAIN-SUFFIX,npa.gov.tw
+DOMAIN-SUFFIX,npm.gov.tw
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,nps.gov
 DOMAIN-SUFFIX,npsboost.com
@@ -21953,6 +21950,7 @@ DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,orchidbbs.com
 DOMAIN-SUFFIX,organcare.org.tw
 DOMAIN-SUFFIX,organharvestinvestigation.net
+DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,orgasm.com
 DOMAIN-SUFFIX,orgfree.com
 DOMAIN-SUFFIX,oricon.co.jp
@@ -22155,6 +22153,7 @@ DOMAIN-SUFFIX,pobieramy.top
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,podcast.co
 DOMAIN-SUFFIX,podictionary.com
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pokerstars.com
 DOMAIN-SUFFIX,pokerstars.net
@@ -22181,6 +22180,7 @@ DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potvpn.com
+DOMAIN-SUFFIX,pourquoi.tw
 DOMAIN-SUFFIX,power.com
 DOMAIN-SUFFIX,powerapple.com
 DOMAIN-SUFFIX,powercx.com
@@ -22432,6 +22432,7 @@ DOMAIN-SUFFIX,ronjoneswriter.com
 DOMAIN-SUFFIX,roodo.com
 DOMAIN-SUFFIX,rosechina.net
 DOMAIN-SUFFIX,rotten.com
+DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rsf-chinese.org
 DOMAIN-SUFFIX,rsf.org
@@ -24064,11 +24065,13 @@ DOMAIN-SUFFIX,yobit.net
 DOMAIN-SUFFIX,yobt.com
 DOMAIN-SUFFIX,yobt.tv
 DOMAIN-SUFFIX,yogichen.org
+DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,yomiuri.co.jp
 DOMAIN-SUFFIX,yong.hu
 DOMAIN-SUFFIX,yorkbbs.ca
 DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,youngspiration.hk
@@ -24078,6 +24081,7 @@ DOMAIN-SUFFIX,yourepeat.com
 DOMAIN-SUFFIX,yourlisten.com
 DOMAIN-SUFFIX,yourlust.com
 DOMAIN-SUFFIX,yourprivatevpn.com
+DOMAIN-SUFFIX,yourtrap.com
 DOMAIN-SUFFIX,yousendit.com
 DOMAIN-SUFFIX,youshun12.com
 DOMAIN-SUFFIX,youthforfreechina.org
@@ -24107,6 +24111,7 @@ DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
+DOMAIN-SUFFIX,zamimg.com
 DOMAIN-SUFFIX,zannel.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
